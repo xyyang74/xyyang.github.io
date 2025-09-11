@@ -13,9 +13,9 @@ title                    : "Xin-Yue Yang's Academic Page"
 title_separator          : "-"
 name                     : &name "Xin-Yue Yang"
 description              : &description "Ph.D. Student"
-url                      : https://xyyang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://xyyang74.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xyyang74/xyyang.github.io"
+repository               : "xyyang74/xyyang74.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
