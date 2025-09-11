@@ -2,6 +2,7 @@
 permalink: /gallery/
 layout: single
 author_profile: false
+title: " "
 ---
 # 🌿 Wellcome to my nature photo gallery
 <div class="carousel">
