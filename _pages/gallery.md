@@ -6,12 +6,12 @@ author_profile: false
 # 🌿 Wellcome to my nature photo gallery
 <div class="carousel">
   <div class="slides">
-    <img src="/images/gallery/photo1.jpg" alt="Photo 1">
-    <img src="/images/gallery/photo2.jpg" alt="Photo 2">
-    <img src="/images/gallery/photo3.jpg" alt="Photo 3">
-    <img src="/images/gallery/photo4.jpg" alt="Photo 4">
-    <img src="/images/gallery/photo5.jpg" alt="Photo 5">
-    <img src="/images/gallery/photo6.jpg" alt="Photo 6">
+    <img src="/images/gallery/photo1.webp" alt="Photo 1">
+    <img src="/images/gallery/photo2.webp" alt="Photo 2">
+    <img src="/images/gallery/photo3.webp" alt="Photo 3">
+    <img src="/images/gallery/photo4.webp" alt="Photo 4">
+    <img src="/images/gallery/photo5.webp" alt="Photo 5">
+    <img src="/images/gallery/photo6.webp" alt="Photo 6">
   </div>
   <button class="prev" onclick="plusSlides(-1)">❮</button>
   <button class="next" onclick="plusSlides(1)">❯</button>
