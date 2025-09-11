@@ -392,3 +392,9 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   dl.info-inline dd {
     margin: 0;
   }
+
+.greedy-nav__toggle span,
+.greedy-nav__toggle span:before,
+.greedy-nav__toggle span:after {
+  background-color: var(--global-text-color) !important;
+}
